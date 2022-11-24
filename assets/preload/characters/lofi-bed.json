@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lofi girl Idle"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lofi left"
+		},
+		{
+			"offsets": [
+				6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lofi down"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lofi up"
+		},
+		{
+			"offsets": [
+				8,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lofi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/W2/LOFI_ASSETS",
+	"position": [
+		380,
+		340
+	],
+	"healthicon": "lofi",
+	"flip_x": true,
+	"healthbar_colors": [
+		45,
+		109,
+		90
+	],
+	"camera_position": [
+		-95,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}
