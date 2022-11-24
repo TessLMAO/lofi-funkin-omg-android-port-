@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "bed",
+		"player1": "bf-bed",
+		"player2": "lofi-bed",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camara 360 Grados",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bed",
+		"bpm": 90,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Slow-Jam"
+	}
+}
