@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "bed",
+		"player1": "bf-bed",
+		"player2": "lofi-bed",
+		"player3": null,
+		"events": [
+			[
+				11294.1176470588,
+				[
+					[
+						"Camara 360 Grados",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bed",
+		"bpm": 85,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Serenity"
+	}
+}
