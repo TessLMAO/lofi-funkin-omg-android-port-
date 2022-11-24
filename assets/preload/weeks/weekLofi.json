@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Imaginations",
+			"lofi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Heartbroken",
+			"lofi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sunset",
+			"lofi",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"l1",
+		"",
+		""
+	],
+	"weekName": "Week7"
+}

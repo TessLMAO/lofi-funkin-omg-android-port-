@@ -1,0 +1,53 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "collab",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Better-Times",
+			"lofi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Purity",
+			"lofi-car",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Forever-Changing",
+			"lofi-car",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Stargazing",
+			"lofi-car",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "xd"
+}
