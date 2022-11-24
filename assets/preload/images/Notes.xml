@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Notes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash green 0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash green 0001" x="1280" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash green 0002" x="2560" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash red 0000" x="0" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash red 0001" x="1280" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash red 0002" x="2560" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash purple 0000" x="0" y="2160" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash purple 0001" x="1280" y="2160" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash purple 0002" x="2560" y="2160" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash blue 0000" x="1280" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash blue 0001" x="2560" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="note splash blue 0002" x="0" y="720" width="1280" height="720" pivotX="0" pivotY="0"/>
+</TextureAtlas>
