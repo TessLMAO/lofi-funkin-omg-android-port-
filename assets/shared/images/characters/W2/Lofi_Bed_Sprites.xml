@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lofi_Bed_Sprites.png">
+<SubTexture name="bf bed down0000" x="931" y="954" width="368" height="464" frameX="0" frameY="-2" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0001" x="931" y="954" width="368" height="464" frameX="0" frameY="-2" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0002" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0003" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0004" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0005" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0006" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0007" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0008" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0009" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0010" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0011" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0012" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0013" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0014" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0015" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0016" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0017" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0018" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0019" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0020" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0021" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0022" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0023" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0024" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0025" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0026" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0027" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0028" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed down0029" x="561" y="954" width="370" height="466" frameX="-3" frameY="0" frameWidth="373" frameHeight="467" />
+<SubTexture name="bf bed idle0000" x="838" y="0" width="277" height="476" frameX="-1" frameY="-2" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0001" x="838" y="0" width="277" height="476" frameX="-1" frameY="-2" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0002" x="280" y="954" width="281" height="467" frameX="0" frameY="-9" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0003" x="280" y="954" width="281" height="467" frameX="0" frameY="-9" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0004" x="0" y="954" width="280" height="471" frameX="0" frameY="-6" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0005" x="0" y="954" width="280" height="471" frameX="0" frameY="-6" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0006" x="0" y="479" width="280" height="475" frameX="0" frameY="-3" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0007" x="0" y="479" width="280" height="475" frameX="0" frameY="-3" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0008" x="0" y="0" width="280" height="479" frameX="0" frameY="0" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0009" x="0" y="0" width="280" height="479" frameX="0" frameY="0" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0010" x="280" y="0" width="280" height="479" frameX="0" frameY="0" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0011" x="280" y="0" width="280" height="479" frameX="0" frameY="0" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0012" x="560" y="0" width="278" height="479" frameX="-1" frameY="0" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed idle0013" x="560" y="0" width="278" height="479" frameX="-1" frameY="0" frameWidth="281" frameHeight="479" />
+<SubTexture name="bf bed left0000" x="841" y="479" width="271" height="474" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0001" x="841" y="479" width="271" height="474" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0002" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0003" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0004" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0005" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0006" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0007" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0008" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0009" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0010" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0011" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0012" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0013" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0014" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0015" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0016" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0017" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0018" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0019" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0020" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0021" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0022" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0023" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0024" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0025" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0026" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0027" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0028" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed left0029" x="1115" y="0" width="278" height="473" frameX="0" frameY="0" frameWidth="278" frameHeight="474" />
+<SubTexture name="bf bed right0000" x="1393" y="0" width="286" height="473" frameX="0" frameY="-2" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0001" x="1393" y="0" width="286" height="473" frameX="0" frameY="-2" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0002" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0003" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0004" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0005" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0006" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0007" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0008" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0009" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0010" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0011" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0012" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0013" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0014" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0015" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0016" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0017" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0018" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0019" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0020" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0021" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0022" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0023" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0024" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0025" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0026" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0027" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0028" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf bed right0029" x="280" y="479" width="283" height="475" frameX="0" frameY="0" frameWidth="286" frameHeight="476" />
+<SubTexture name="bf up0000" x="563" y="479" width="278" height="475" frameX="-1" frameY="0" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0001" x="563" y="479" width="278" height="475" frameX="-1" frameY="0" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0002" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0003" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0004" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0005" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0006" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0007" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0008" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0009" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0010" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0011" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0012" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0013" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0014" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0015" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0016" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0017" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0018" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0019" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0020" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0021" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0022" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0023" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0024" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0025" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0026" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0027" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0028" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+<SubTexture name="bf up0029" x="1393" y="473" width="276" height="472" frameX="0" frameY="-4" frameWidth="279" frameHeight="477" />
+</TextureAtlas>

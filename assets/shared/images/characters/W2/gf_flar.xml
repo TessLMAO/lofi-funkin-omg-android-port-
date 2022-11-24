@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_flar.png">
+<SubTexture name="GF IDLE0000" x="0" y="418" width="406" height="417" frameX="-1" frameY="-1" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0001" x="0" y="418" width="406" height="417" frameX="-1" frameY="0" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0002" x="0" y="0" width="413" height="418" frameX="-1" frameY="0" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0003" x="837" y="0" width="417" height="416" frameX="-1" frameY="-2" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0004" x="406" y="418" width="420" height="417" frameX="0" frameY="-1" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0005" x="406" y="418" width="420" height="417" frameX="0" frameY="0" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0006" x="413" y="0" width="424" height="418" frameX="0" frameY="0" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0007" x="1254" y="0" width="441" height="405" frameX="0" frameY="-13" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0008" x="1254" y="405" width="441" height="405" frameX="0" frameY="-13" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0009" x="0" y="1242" width="446" height="405" frameX="0" frameY="-13" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0010" x="0" y="835" width="446" height="407" frameX="0" frameY="-11" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0011" x="0" y="835" width="446" height="407" frameX="0" frameY="-11" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0012" x="446" y="835" width="446" height="406" frameX="0" frameY="-12" frameWidth="446" frameHeight="419" />
+<SubTexture name="GF IDLE0013" x="446" y="835" width="446" height="406" frameX="0" frameY="-12" frameWidth="446" frameHeight="419" />
+</TextureAtlas>
