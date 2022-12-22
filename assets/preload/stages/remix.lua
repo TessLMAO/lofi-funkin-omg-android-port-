@@ -7,7 +7,7 @@ function onCreate()
 	setLuaSpriteScrollFactor('Ground', 0.9, 0.9);
   scaleObject('Ground', 5, 5);
 
-  makeLuaSprite('lofi_car', 'W3/lofi_car', -1000, -615);
+  makeLuaSprite('lofi_car', 'W3R/lofi_car', -1000, -615);
 	setLuaSpriteScrollFactor('lofi_car', 0.9, 0.9);
   scaleObject('lofi_car', 4.8, 4.8);
 
